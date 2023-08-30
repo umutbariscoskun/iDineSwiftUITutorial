@@ -1,6 +1,6 @@
 # iDineSwiftUITutorial
 Paul Hudson's Swift UI Tutorial app with state and environmentObjects. 
-Contains mock datas
+Contains mock data.
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-08-27 at 11 05 36](https://github.com/umutbariscoskun/iDineSwiftUITutorial/assets/45595606/5bb804bd-5a0e-4fe6-a313-55202ae4da23)
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-08-27 at 11 05 29](https://github.com/umutbariscoskun/iDineSwiftUITutorial/assets/45595606/9f5d90e6-fa0d-4cb6-b658-13f4a2fa332e)
